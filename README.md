@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0000,2a0000,cc0000&height=130&section=header" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Jackie+Kang+%7C+%EA%B0%95%EC%A3%BC%ED%97%8C;Automotive+Embedded+SW+Engineer;CAN+%7C+Yocto+%7C+ROS2+%7C+AUTOSAR;Building+the+Software-Defined+Vehicle)](https://git.io/typing-svg)
-
+<img src="https://raw.githubusercontent.com/Ju-Daeng-E/Ju-Daeng-E/main/header.svg" width="900"/>
 </div>
 
 ---
