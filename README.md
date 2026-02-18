@@ -12,7 +12,6 @@ role        : Automotive Embedded Software Engineer
 university  : Ajou University — Software Engineering
 program     : SEA:ME @ Volkswagen / CARIAD / Bosch, Wolfsburg, Germany
 focus       : Vehicle Embedded Systems · SDV · Real-Time Communication
-passion     : F1 since 2010 Korean Grand Prix 🏎️
 ```
 
 > *"I bridge the gap between hardware and software — writing code that moves at the speed of a race car."*
@@ -136,11 +135,11 @@ Physical BMW RC car controlled via replayed CAN signals derived from reverse eng
 
 | 🏆 Event | 📍 Location | 📅 Year |
 |---|---|---|
-| SEA:ME Automotive SW Program | Volkswagen Group / CARIAD, Wolfsburg 🇩🇪 | 2024–2025 |
-| Eclipse SDV Hackathon — 6th Place | Germany 🇩🇪 | 2024 |
+| SEA:ME Automotive SW Program | Volkswagen Group / CARIAD, Wolfsburg 🇩🇪 | 2025–2026 |
+| Eclipse SDV Hackathon | Germany 🇩🇪 | 2025 |
+| Technical Showcase | Hannover Maker Fair 🇩🇪 | 2025 |
 | Formula Student Korea — Telemetry Lead | Korea 🇰🇷 | 2024 |
-| International Presentation | NTU Singapore 🇸🇬 | 2024 |
-| Technical Showcase | Hannover Maker Fair 🇩🇪 | 2024 |
+| International Presentation (Robot Barista)| NTU Singapore 🇸🇬 | 2024 |
 
 ---
 
@@ -150,7 +149,7 @@ Physical BMW RC car controlled via replayed CAN signals derived from reverse eng
 
 ### 🌐 Portfolio Website
 <a href="https://juhunkangproject.vercel.app/">
-  <img src="https://img.shields.io/badge/juhunkangproject.vercel.app-CC0000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Click to Discover-CC0000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/>
 </a>
 
 <br/><br/>
