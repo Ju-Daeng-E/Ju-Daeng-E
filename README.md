@@ -131,6 +131,26 @@ Physical BMW RC car controlled via replayed CAN signals derived from reverse eng
 
 ---
 
+## 🔀 Open Source Contributions
+
+### [python-can](https://github.com/hardbyte/python-can) — Merged PR [#2032](https://github.com/hardbyte/python-can/pull/2032)
+
+> A widely-used Python library for CAN bus communication, used in automotive development and research worldwide.
+
+**Fix: ASCWriter/ASCReader timestamp format support**
+
+Identified a limitation in `ASCWriter` where timestamps were always written in absolute format, with no way to produce relative-format `.asc` logs — a common requirement in automotive CAN toolchains (e.g., Vector CANalyzer). Also discovered and fixed a cumulative drift bug in `ASCReader` when parsing relative-timestamp files.
+
+**Changes shipped:**
+- Added `timestamps_format` parameter to `ASCWriter` supporting `"absolute"` and `"relative"` modes
+- Implemented delta-based timestamp calculation for relative mode
+- Fixed `ASCReader` relative timestamp parsing to prevent accumulated offset errors
+- Fully backwards-compatible — existing code unaffected
+
+`python-can` `CAN Bus` `ASC Format` `Automotive Toolchain` `Open Source`
+
+---
+
 ## 🌍 Experience & Recognition
 
 | 🏆 Event | 📍 Location | 📅 Year |
